@@ -5,8 +5,6 @@ import search from "../../assets/Vector.svg";
 const SearchContainer = styled.div`
   position: relative;
   text-align: center;
-  display: flex;
-  justify-content: center;
   width: 80%;
 `;
 

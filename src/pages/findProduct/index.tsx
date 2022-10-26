@@ -24,6 +24,8 @@ const SecondHeading = styled.span`
 const ContainerSearch = styled.div`
   position: relative;
   margin-top: 20px;
+  display: flex;
+  justify-content: center;
 `;
 
 const FindProduct = () => {
